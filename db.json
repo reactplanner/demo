@@ -1,14 +1,27 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"lime": {
+		"RZRC46A": {
+			"code": "RZRC46A",
+			"text": "5 FREE Rides + 10$",
+			"brand": "Lime Promocode"
+		},
+		"RW6KJDX": {
+			"code": "RW6KJDX",
+			"text": "5 FREE Rides + 5$",
+			"brand": "Lime Promocode"
+		}
+	},
+	"wind": {
+		"RZR543A": {
+			"code": "RZR543A",
+			"text": "5 FREE Rides + 10$",
+			"brand": "Wind Promocode"
+		},
+		"RW2525DX": {
+			"code": "RW2525DX",
+			"text": "5 FREE Rides + 5$",
+			"brand": "Wind Promocode"
+		}
+	}
 }
+
