@@ -1,10 +1,5 @@
 {
 	"lime": {
-		"RZRC46A": {
-			"code": "RZRC46A",
-			"text": "5 FREE Rides + 10$",
-			"brand": "Lime Promocode"
-		},
 		"RGXMYW3": {
 			"code": "RGXMYW3",
 			"text": "5 FREE Rides + 5$",
@@ -13,6 +8,11 @@
 		"RYBPRWP": {
 			"code": "RYBPRWP",
 			"text": "5 FREE Rides + 5$",
+			"brand": "Lime Promocode"
+		},
+		"RZRC46A": {
+			"code": "RZRC46A",
+			"text": "5 FREE Rides + 10$",
 			"brand": "Lime Promocode"
 		},
 		"R2ZNXVE": {
