@@ -5,6 +5,16 @@
 			"text": "5 FREE Rides + 5$",
 			"brand": "Lime Promocode"
 		},
+		"RR5L5GF": {
+			"code": "RR5L5GF",
+			"text": "5 FREE Rides + 10$",
+			"brand": "Lime Promocode"
+		},
+		"R2ZNXVE": {
+			"code": "R2ZNXVE",
+			"text": "5 FREE Rides + 10$",
+			"brand": "Lime Promocode"
+		},
 		"RYBPRWP": {
 			"code": "RYBPRWP",
 			"text": "5 FREE Rides + 5$",
@@ -15,11 +25,6 @@
 			"text": "5 FREE Rides + 10$",
 			"brand": "Lime Promocode"
 		},
-		"R2ZNXVE": {
-			"code": "R2ZNXVE",
-			"text": "5 FREE Rides + 10$",
-			"brand": "Lime Promocode"
-		},
 		"RH7ITIS": {
 			"code": "RH7ITIS",
 			"text": "5 FREE Rides",
@@ -27,6 +32,11 @@
 		}
 	},
 	"wind": {
+		"4S8U2QV":{
+			"code": "4S8U2QV",
+			"text": "5 FREE Rides + 10$",
+			"brand": "Wind Promocode"
+		},
 		"Q6HD89Y": {
 			"code": "Q6HD89Y",
 			"text": "5 FREE Rides + 10$",
@@ -37,5 +47,6 @@
 			"text": "Special Offer",
 			"brand": "Wind Promocode"
 		}
+		
 	}
 }
